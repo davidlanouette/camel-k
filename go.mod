@@ -23,7 +23,7 @@ require (
 	github.com/operator-framework/api v0.13.0
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.60.0
 	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.4.0
+	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.44.0
 	github.com/redhat-developer/service-binding-operator v1.3.4
 	github.com/rs/xid v1.5.0
