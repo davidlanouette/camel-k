@@ -388,8 +388,8 @@ github.com/prometheus/procfs v0.15.1 h1:YagwOFzUgYfKKHX6Dr+sHT7km/hxC76UB0leargg
 github.com/prometheus/procfs v0.15.1/go.mod h1:fB45yRUv8NstnjriLhBQLuOUt+WW4BsoGhij/e3PBqk=
 github.com/prometheus/statsd_exporter v0.22.7 h1:7Pji/i2GuhK6Lu7DHrtTkFmNBCudCPT1pX2CziuyQR0=
 github.com/prometheus/statsd_exporter v0.22.7/go.mod h1:N/TevpjkIh9ccs6nuzY3jQn9dFqnUakOjnEuMPJJJnI=
-github.com/redhat-developer/service-binding-operator v1.4.0 h1:i3xHPfm+iCE4JOGyrmKl/DpAuHmBj98zVOxUQAt7VSI=
-github.com/redhat-developer/service-binding-operator v1.4.0/go.mod h1:iuHe2uSbhFV/Z1iVh8ncmiRc+RLjgDZkDkkUMCwGEXU=
+github.com/redhat-developer/service-binding-operator v1.4.1 h1:rBjvdnn9XYVWyb7EpEWqtugkpzu5pcIsSV5sczj0lrc=
+github.com/redhat-developer/service-binding-operator v1.4.1/go.mod h1:3f2aNbRJsaLKqZwcEaoZ427W/AtZDr0WKKyIxAdoyJ0=
 github.com/rickb777/date v1.13.0 h1:+8AmwLuY1d/rldzdqvqTEg7107bZ8clW37x4nsdG3Hs=
 github.com/rickb777/date v1.13.0/go.mod h1:GZf3LoGnxPWjX+/1TXOuzHefZFDovTyNLHDMd3qH70k=
 github.com/rickb777/plural v1.2.1 h1:UitRAgR70+yHFt26Tmj/F9dU9aV6UfjGXSbO1DcC9/U=
